@@ -4,3 +4,4 @@ We conduct a more rigourous statisical test.
 Start using Poisson to predict football matches, close match.
 We can spot many limitations to our model at the moment. Try to resolve in the next section.
 [02]
+Now, let's use all 10 seasons from 15/16 to 24/25.
