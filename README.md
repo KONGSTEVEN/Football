@@ -5,3 +5,8 @@ Start using Poisson to predict football matches, close match.
 We can spot many limitations to our model at the moment. Try to resolve in the next section.
 [02]
 Now, let's use all 10 seasons from 15/16 to 24/25.
+Finding attacking and defensive strengths for each team.
+Finding expected goals in a fixture.
+Now we can compute probabilities using Poisson.
+Implement recent form features.
+Train logistic regression.
