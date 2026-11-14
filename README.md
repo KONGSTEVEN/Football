@@ -9,4 +9,3 @@ Finding attacking and defensive strengths for each team.
 Finding expected goals in a fixture.
 Now we can compute probabilities using Poisson.
 Implement recent form features.
-Train logistic regression.
